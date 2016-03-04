@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[flaviolamenza]]></title>
+        <description><![CDATA[flaviolamenza]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 20:21:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New York from Top of The Rock]]></title>
+            <description><![CDATA[<article><h1>New York from Top of The Rock</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c14e7d63e88b4c38bb1e8d29273cd2851cf8c69d.jpg"></article>]]></description>
+            <link>undefinedb22e6696-faab-416c-a5ea-71b5e5262126/index.html</link>
+            <guid isPermaLink="false">b22e6696-faab-416c-a5ea-71b5e5262126</guid>
+            <pubDate>Fri, 04 Mar 2016 20:20:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
