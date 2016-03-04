@@ -1,7 +1,7 @@
 name: flaviolamenza
 favicon: null
-layout_spectrum: 0.3900513695552945
-typography_spectrum: 0.4187390806619078
+layout_spectrum: 0.11628
+typography_spectrum: 0.65698
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5929207277949899
+  brandStrength: 0.125
   lightness: 0.3751870193518698
   saturation: 0.8862140774726868
-  rhythmicContrast: 0.6363121294416487
+  rhythmicContrast: 1
 purpose: []
