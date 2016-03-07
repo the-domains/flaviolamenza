@@ -1,6 +1,6 @@
 name: flaviolamenza
 favicon: null
-layout_spectrum: 0.37015
+layout_spectrum: 0.23839
 typography_spectrum: 0.65698
 title: 'Photographer and Filmmaker, Flavio Lamenza Portfolio`s'
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0
+    - '#08090e'
+    - '#363844'
+    - '#774b0e'
+    - '#812310'
+    - '#6090d0'
+  brandStrength: 0.5
   lightness: 0.3751870193518698
-  saturation: 0.8862140774726868
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
