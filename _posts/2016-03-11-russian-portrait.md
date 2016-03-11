@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-11T15:38:29.775Z'
-dateModified: '2016-03-11T15:38:01.042Z'
+description: In rio.
+datePublished: '2016-03-11T18:44:43.958Z'
+dateModified: '2016-03-11T15:38:34.627Z'
 title: Russian Portrait
 author: []
+sourcePath: _posts/2016-03-11-russian-portrait.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-russian-portrait.md
-published: true
 url: russian-portrait/index.html
 _type: Article
 
