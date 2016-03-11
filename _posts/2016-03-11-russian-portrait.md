@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: In rio.
-datePublished: '2016-03-11T18:44:43.958Z'
-dateModified: '2016-03-11T15:38:34.627Z'
+datePublished: '2016-03-11T18:46:10.999Z'
+dateModified: '2016-03-11T18:45:52.585Z'
 title: Russian Portrait
 author: []
 sourcePath: _posts/2016-03-11-russian-portrait.md
@@ -25,8 +25,8 @@ _type: Article
 # Russian Portrait
 
 In rio.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60ab3d7f-4ec5-4ea2-85f0-1b5ae8080bba.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7b2ef3-f195-4c7e-b331-fbb46cde41c8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c614828-eef9-425d-a363-ac91453bc9b8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abf6a9f2-a3db-4c4e-bceb-4c638378035c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/777b4efa-d0c1-40c0-8371-09557c6c5e1b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07d2d3f856b4c55590af24a75b62dc46a1c5a5af.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afeba3fc0efc068cbb74346ed4db0474eaad00c5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/924ccf65d23ea8bbb86a0033e6a1ff2550f58764.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96321a47ee0d5817c851b1234f436329a7b43c97.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ac742245982b58f0bc560f9958eff059202f06c.jpg)
