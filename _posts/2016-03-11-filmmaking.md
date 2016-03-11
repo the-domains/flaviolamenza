@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Flavio Lamenza DemoReel 2015
-datePublished: '2016-03-11T18:46:14.241Z'
-dateModified: '2016-03-11T15:59:55.076Z'
+datePublished: '2016-03-11T18:49:01.243Z'
+dateModified: '2016-03-11T18:48:26.694Z'
 title: Filmmaking
 author: []
+sourcePath: _posts/2016-03-11-filmmaking.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-filmmaking.md
-published: true
 url: filmmaking/index.html
 _type: Article
 
